@@ -1,0 +1,43 @@
+.box{
+  width: 320px;
+  padding: 10px; 
+  border: 3px solid rgb(128, 128, 128);
+  border-radius: 15px;
+  margin-left: 10%;
+  margin-top: 10%;
+  
+}
+.p{
+  color: rgb(15, 24, 17);
+  font-size: 1rem;
+}
+.h{
+  color: rgb(105, 103, 57);
+  font-size: 1.5rem;
+}
+.f{ 
+  display: flex;
+  flex-direction: row;
+  
+} 
+.g{ 
+  display: flex;
+  flex-direction: column;
+  width: 20rem; 
+  margin-left: 0%;
+}
+.input{
+  border-color: transparent;
+  border-radius: 5px;
+}
+.add{
+    width: 4rem;
+    margin-left: 35%;
+}
+.i{    
+  border: 3px solid rgb(128, 128, 128);
+  width: 22rem;
+  height: 5.4rem;
+  margin-left: 10%;
+  border-radius: 0.75rem;
+} 

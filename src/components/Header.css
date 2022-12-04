@@ -1,0 +1,11 @@
+.navbar{
+    height: 35rm;
+    background-color: rgba(215, 195, 9, 0.945);
+    padding-left: 1px;
+    padding-top: 1px;
+}
+.keeper{
+    color: white;
+    margin-left: 5%;
+    font-size: 50px;
+} 
